@@ -14,7 +14,6 @@
 			$method = $arrUrl[1];	
 		}
 	}
-	hasdihd
 
 	if(!empty($arrUrl[2]))
 	{
